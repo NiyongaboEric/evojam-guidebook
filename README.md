@@ -1,0 +1,5 @@
+#### GUIDE BOOK DOCUMENTATION
+
+### RUN THE DOC
+> cargo doc
+
